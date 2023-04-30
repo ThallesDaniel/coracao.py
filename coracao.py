@@ -17,3 +17,6 @@ turtle.circle(50*size,200)
 turtle.forward(133*size)
 turtle.end_fill()
 time.sleep(5)
+
+
+#manda pra cremosa =)
